@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "How many legs does a dog have?",
+            "a": "2",
+            "b": "4",
+            "c": "6",
+            "d": "8",
+            "right_answer": "b"
+        },
+        {
+            "question": "How many legs does a cat have?",
+            "a": "1",
+            "b": "4",
+            "c": "7",
+            "d": "3",
+            "right_answer": "b"
+        },
+        {
+            "question": "How many legs does a human have?",
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5",
+            "right_answer": "a"
+        },
+        {
+            "question": "How many legs does space have?",
+            "a": "0",
+            "b": "4",
+            "c": "6",
+            "d": "What is this question?",
+            "right_answer": "a"
+        },
+        {
+            "question": "How many fingers does a human have?",
+            "a": "0",
+            "b": "4",
+            "c": "6",
+            "d": "10",
+            "right_answer": "a"
+        }
+    ]
+}
